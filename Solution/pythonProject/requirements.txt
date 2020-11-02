@@ -1,0 +1,6 @@
+## Imported Libraries.
+
+- requests
+- pandas
+- json
+- sqlite3
