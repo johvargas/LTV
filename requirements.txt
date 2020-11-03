@@ -1,0 +1,14 @@
+## Imported Libraries.
+
+- requests
+- pandas
+- json
+- sqlite3
+- datetime
+- os
+- click
+
+
+# Python Interprete
+
+using Python 3.8 (from Anaconda installation) and anaconda package manager.
